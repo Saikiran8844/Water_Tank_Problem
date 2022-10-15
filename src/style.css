@@ -1,0 +1,25 @@
+body {
+    box-sizing: border-box;
+    padding: 20px;
+    background:#876D97 ;
+    margin: 0 auto;
+    width: 100%;
+  }
+  svg {
+    background:#F9AC66;
+    display: block;
+    margin: 0 auto;
+  }
+  rect {
+    fill: #ED6B5B;
+    
+  }
+#root{
+  background-size: auto;
+  font-size: medium; 
+}
+h1{
+  text-align:"center";
+  font-family: 'Franklin Gothic Medium';
+  text-decoration-color: #F9AC66;
+}
